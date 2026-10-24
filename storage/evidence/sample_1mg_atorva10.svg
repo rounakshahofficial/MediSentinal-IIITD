@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440">
+  <rect width="800" height="440" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <rect width="800" height="46" rx="12" fill="#e2e8f0"/>
+  <rect y="34" width="800" height="12" fill="#e2e8f0"/>
+  <circle cx="24" cy="23" r="6" fill="#ef4444"/>
+  <circle cx="44" cy="23" r="6" fill="#f59e0b"/>
+  <circle cx="64" cy="23" r="6" fill="#22c55e"/>
+  <rect x="90" y="10" width="686" height="26" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="104" y="28" font-family="monospace" font-size="12" fill="#334155">https://www.1mg.com/drugs/atorva-10-tablet-134211</text>
+
+  <rect x="28" y="68" width="744" height="344" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="48" y="88" width="128" height="28" rx="6" fill="#e11d48"/>
+  <text x="112" y="107" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="13" fill="#ffffff">1MG</text>
+  <text x="748" y="106" text-anchor="end" font-family="monospace" font-size="12" fill="#64748b">Captured: 2026-10-22T09:15:00Z</text>
+
+  <text x="48" y="152" font-family="sans-serif" font-weight="bold" font-size="24" fill="#0f172a">Atorva 10 Tablet</text>
+  <text x="48" y="176" font-family="sans-serif" font-size="13" fill="#64748b">Zydus Cadila (Sample Fixture)</text>
+
+  <line x1="48" y1="196" x2="752" y2="196" stroke="#e2e8f0"/>
+
+  <text x="48" y="228" font-family="sans-serif" font-weight="bold" font-size="13" fill="#475569">SALT COMPOSITION (RAW):</text>
+  <text x="245" y="228" font-family="monospace" font-size="14" fill="#0f172a">Atorvastatin (10mg)</text>
+
+  <text x="48" y="262" font-family="sans-serif" font-weight="bold" font-size="13" fill="#475569">PACK SIZE (RAW):</text>
+  <text x="245" y="262" font-family="monospace" font-size="14" fill="#0f172a">strip of 10 tablets</text>
+
+  <rect x="48" y="290" width="330" height="94" rx="8" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="68" y="320" font-family="sans-serif" font-size="13" fill="#475569">Listed MRP (incl. of all taxes): INR 78.50</text>
+  <text x="68" y="356" font-family="sans-serif" font-weight="bold" font-size="22" fill="#0f172a">Selling Price: INR 69.00</text>
+
+  <rect x="404" y="290" width="348" height="94" rx="8" fill="#fffbeb" stroke="#fde68a"/>
+  <text x="424" y="322" font-family="sans-serif" font-weight="bold" font-size="12" fill="#92400e">EVIDENCE DOSSIER SNAPSHOT</text>
+  <text x="424" y="346" font-family="sans-serif" font-size="12" fill="#78350f">Sample cached capture for human compliance</text>
+  <text x="424" y="366" font-family="sans-serif" font-size="12" fill="#78350f">verification. Never an automated legal finding.</text>
+</svg>

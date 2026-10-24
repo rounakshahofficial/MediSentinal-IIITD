@@ -1,0 +1,11 @@
+# IMPORTANT: SAMPLE PLACEHOLDER DATA FOR PROTOTYPE DEVELOPMENT ONLY.
+# Before any real-world or regulatory compliance use, you MUST replace ceiling_price_per_unit,
+# gst_percent, source_order, effective_from, and version with verified values from official
+# NPPA (National Pharmaceutical Pricing Authority) Gazette S.O. ceiling-price orders.
+ingredient,strength,dosage_form,unit,ceiling_price_per_unit,gst_percent,source_order,effective_from,version
+Atorvastatin,5 mg,tablet,1 tablet,3.4600,12.00,SAMPLE-REPLACE-WITH-NPPA-SO-1547E,2025-04-01,SAMPLE-UNVERIFIED-v1
+Atorvastatin,10 mg,tablet,1 tablet,5.7100,12.00,SAMPLE-REPLACE-WITH-NPPA-SO-1547E,2025-04-01,SAMPLE-UNVERIFIED-v1
+Atorvastatin,20 mg,tablet,1 tablet,13.8600,12.00,SAMPLE-REPLACE-WITH-NPPA-SO-1547E,2025-04-01,SAMPLE-UNVERIFIED-v1
+Atorvastatin,40 mg,tablet,1 tablet,20.1100,12.00,SAMPLE-REPLACE-WITH-NPPA-SO-1547E,2025-04-01,SAMPLE-UNVERIFIED-v1
+Atorvastatin,80 mg,tablet,1 tablet,31.2400,12.00,SAMPLE-REPLACE-WITH-NPPA-SO-1547E,2025-04-01,SAMPLE-UNVERIFIED-v1
+Atorvastatin,10 mg,capsule,1 capsule,6.1500,12.00,SAMPLE-REPLACE-WITH-NPPA-SO-1547E,2025-04-01,SAMPLE-UNVERIFIED-v1

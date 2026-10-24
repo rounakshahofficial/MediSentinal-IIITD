@@ -1,0 +1,43 @@
+{
+  "site": "pharmeasy",
+  "medicine_family": "atorvastatin",
+  "captured_by": "cached_mock_fixture",
+  "listings": [
+    {
+      "site": "pharmeasy",
+      "url": "https://pharmeasy.in/online-medicine-order/lipitor-40mg-tablet-10291",
+      "product_name": "Lipitor 40mg Film-Coated Tablet",
+      "composition_raw": "Atorvastatin (40mg)",
+      "pack_size_raw": "strip of 10 tablets",
+      "mrp": "298.00",
+      "selling_price": "262.00",
+      "screenshot_path": "/storage/evidence/sample_pharmeasy_lipitor40.svg",
+      "observed_at": "2026-10-23T10:35:00Z",
+      "manufacturer": "Pfizer Ltd (Sample Fixture)"
+    },
+    {
+      "site": "pharmeasy",
+      "url": "https://pharmeasy.in/online-medicine-order/tonact-10-capsule-88120",
+      "product_name": "Tonact 10 Capsule",
+      "composition_raw": "Atorvastatin 10 mg",
+      "pack_size_raw": "1 strip",
+      "mrp": "88.00",
+      "selling_price": "76.00",
+      "screenshot_path": "/storage/evidence/sample_pharmeasy_tonact10_unclear.svg",
+      "observed_at": "2026-10-23T10:36:00Z",
+      "manufacturer": "Lupin Ltd (Sample Fixture)"
+    },
+    {
+      "site": "pharmeasy",
+      "url": "https://pharmeasy.in/online-medicine-order/atocor-5-tablet-44109",
+      "product_name": "Atocor 5 Tablet",
+      "composition_raw": "Atorvastatin (5mg)",
+      "pack_size_raw": "strip of 10 tablets",
+      "mrp": "39.00",
+      "selling_price": "35.10",
+      "screenshot_path": null,
+      "observed_at": "2026-10-23T10:37:00Z",
+      "manufacturer": "Dr. Reddy's Laboratories (Sample Fixture)"
+    }
+  ]
+}

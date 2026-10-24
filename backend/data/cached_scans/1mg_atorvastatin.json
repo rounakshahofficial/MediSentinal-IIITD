@@ -1,0 +1,55 @@
+{
+  "site": "1mg",
+  "medicine_family": "atorvastatin",
+  "captured_by": "cached_mock_fixture",
+  "listings": [
+    {
+      "site": "1mg",
+      "url": "https://www.1mg.com/drugs/atorva-10-tablet-134211",
+      "product_name": "Atorva 10 Tablet",
+      "composition_raw": "Atorvastatin (10mg)",
+      "pack_size_raw": "strip of 10 tablets",
+      "mrp": "78.50",
+      "selling_price": "69.00",
+      "screenshot_path": "/storage/evidence/sample_1mg_atorva10.svg",
+      "observed_at": "2026-10-22T09:15:00Z",
+      "manufacturer": "Zydus Cadila (Sample Fixture)"
+    },
+    {
+      "site": "1mg",
+      "url": "https://www.1mg.com/drugs/atorva-10-tablet-134211",
+      "product_name": "Atorva 10 Tablet",
+      "composition_raw": "Atorvastatin (10mg)",
+      "pack_size_raw": "strip of 10 tablets",
+      "mrp": "79.50",
+      "selling_price": "71.00",
+      "screenshot_path": "/storage/evidence/sample_1mg_atorva10_repeat.svg",
+      "observed_at": "2026-10-23T10:30:00Z",
+      "manufacturer": "Zydus Cadila (Sample Fixture - Follow-up Scan)"
+    },
+    {
+      "site": "1mg",
+      "url": "https://www.1mg.com/drugs/storvas-20-tablet-149822",
+      "product_name": "Storvas 20 Tablet",
+      "composition_raw": "Atorvastatin Calcium IP eq. to Atorvastatin 20 mg",
+      "pack_size_raw": "strip of 15 tablets",
+      "mrp": "231.00",
+      "selling_price": "204.00",
+      "screenshot_path": "/storage/evidence/sample_1mg_storvas20.svg",
+      "observed_at": "2026-10-23T10:31:00Z",
+      "manufacturer": "Sun Pharmaceutical Industries (Sample Fixture)"
+    },
+    {
+      "site": "1mg",
+      "url": "https://www.1mg.com/drugs/atorva-asp-75-capsule-218900",
+      "product_name": "Atorva Asp 75 Capsule",
+      "composition_raw": "Atorvastatin (10mg) + Aspirin (75mg)",
+      "pack_size_raw": "strip of 10 capsules",
+      "mrp": "49.00",
+      "selling_price": "43.10",
+      "screenshot_path": null,
+      "observed_at": "2026-10-23T10:32:00Z",
+      "manufacturer": "FDC Sample Fixture"
+    }
+  ]
+}

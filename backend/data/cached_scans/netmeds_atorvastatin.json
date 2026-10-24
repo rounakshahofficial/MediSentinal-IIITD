@@ -1,0 +1,43 @@
+{
+  "site": "netmeds",
+  "medicine_family": "atorvastatin",
+  "captured_by": "cached_mock_fixture",
+  "listings": [
+    {
+      "site": "netmeds",
+      "url": "https://www.netmeds.com/prescriptions/stator-80-tablet-10s",
+      "product_name": "Stator 80 Tablet",
+      "composition_raw": "Atorvastatin (80mg)",
+      "pack_size_raw": "strip of 10 tablets",
+      "mrp": "392.00",
+      "selling_price": "342.00",
+      "screenshot_path": "/storage/evidence/sample_netmeds_stator80.svg",
+      "observed_at": "2026-10-23T10:40:00Z",
+      "manufacturer": "Abbott Healthcare (Sample Fixture)"
+    },
+    {
+      "site": "netmeds",
+      "url": "https://www.netmeds.com/prescriptions/lipicure-40-tablet-variant",
+      "product_name": "Lipicure 40 Tablet",
+      "composition_raw": "Atorvastatin (20mg)",
+      "pack_size_raw": "strip of 15 tablets",
+      "mrp": "310.00",
+      "selling_price": "275.00",
+      "screenshot_path": "/storage/evidence/sample_netmeds_lipicure_conflict.svg",
+      "observed_at": "2026-10-23T10:41:00Z",
+      "manufacturer": "Intas Pharmaceuticals (Sample Fixture)"
+    },
+    {
+      "site": "netmeds",
+      "url": "https://www.netmeds.com/prescriptions/atorcap-10-capsule-10s",
+      "product_name": "Atorcap 10 Capsule",
+      "composition_raw": "Atorvastatin (10mg)",
+      "pack_size_raw": "strip of 10 capsules",
+      "mrp": "79.00",
+      "selling_price": "72.00",
+      "screenshot_path": "/storage/evidence/sample_netmeds_atorcap10.svg",
+      "observed_at": "2026-10-23T10:42:00Z",
+      "manufacturer": "Cipla Ltd (Sample Fixture)"
+    }
+  ]
+}

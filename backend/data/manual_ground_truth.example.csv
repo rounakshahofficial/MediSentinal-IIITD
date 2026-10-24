@@ -1,0 +1,11 @@
+site,url,observed_at,expected_ingredient,expected_strength,expected_dosage_form,expected_units_in_pack,expected_match_status,expected_flag
+1mg,https://www.1mg.com/drugs/atorva-10-tablet-134211,2026-10-22T09:15:00,Atorvastatin,10 mg,tablet,10,matched,true
+1mg,https://www.1mg.com/drugs/atorva-10-tablet-134211,2026-10-23T10:30:00,Atorvastatin,10 mg,tablet,10,matched,true
+1mg,https://www.1mg.com/drugs/storvas-20-tablet-149822,2026-10-23T10:31:00,Atorvastatin,20 mg,tablet,15,matched,false
+1mg,https://www.1mg.com/drugs/atorva-asp-75-capsule-218900,2026-10-23T10:32:00,Atorvastatin + Aspirin,10 mg + 75 mg,capsule,10,no_match,false
+pharmeasy,https://pharmeasy.in/online-medicine-order/lipitor-40mg-tablet-10291,2026-10-23T10:35:00,Atorvastatin,40 mg,tablet,10,matched,true
+pharmeasy,https://pharmeasy.in/online-medicine-order/tonact-10-capsule-88120,2026-10-23T10:36:00,Atorvastatin,10 mg,capsule,,uncertain,false
+pharmeasy,https://pharmeasy.in/online-medicine-order/atocor-5-tablet-44109,2026-10-23T10:37:00,Atorvastatin,5 mg,tablet,10,matched,false
+netmeds,https://www.netmeds.com/prescriptions/stator-80-tablet-10s,2026-10-23T10:40:00,Atorvastatin,80 mg,tablet,10,matched,true
+netmeds,https://www.netmeds.com/prescriptions/lipicure-40-tablet-variant,2026-10-23T10:41:00,Atorvastatin,40 mg,tablet,15,uncertain,false
+netmeds,https://www.netmeds.com/prescriptions/atorcap-10-capsule-10s,2026-10-23T10:42:00,Atorvastatin,10 mg,capsule,10,matched,true
